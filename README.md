@@ -1,5 +1,5 @@
 -/ WAR ROBOTS for IOS \-
-Creator: Shrino
+Creator: beentolazy (Discord)
 Game: War Robots
 Platform: IOS
 Version: 1.0
